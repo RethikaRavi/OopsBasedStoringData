@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\OopsBasedStoringData\OopsBasedStoringData\bin\Debug\OopsBasedStoringData.exe.config
+C:\Users\Admin\source\repos\OopsBasedStoringData\OopsBasedStoringData\bin\Debug\OopsBasedStoringData.exe
+C:\Users\Admin\source\repos\OopsBasedStoringData\OopsBasedStoringData\bin\Debug\OopsBasedStoringData.pdb
+C:\Users\Admin\source\repos\OopsBasedStoringData\OopsBasedStoringData\obj\Debug\OopsBasedStoringData.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OopsBasedStoringData\OopsBasedStoringData\obj\Debug\OopsBasedStoringData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OopsBasedStoringData\OopsBasedStoringData\obj\Debug\OopsBasedStoringData.exe
+C:\Users\Admin\source\repos\OopsBasedStoringData\OopsBasedStoringData\obj\Debug\OopsBasedStoringData.pdb
